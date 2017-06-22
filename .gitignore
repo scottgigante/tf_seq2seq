@@ -1,0 +1,5 @@
+.DS_Store
+._*
+*.png
+seq2seq_log
+nanopore_data
